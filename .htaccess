@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "My Protected Area"
-AuthUserFile /public_html/home/gitnexloc/public_html/
+AuthUserFile /home/gitnexloc/public_html
 Require valid-user
